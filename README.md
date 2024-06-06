@@ -4,7 +4,7 @@ I have always been passionate about technology, and this is why I chose this pat
 My goal is to enter the data job market with my combination of hard skills as a data analyst and soft skills as an engineer.
 
 ## 🔧 Skills
-- **Hard Skills**: Excel, Python, SQL, PowerBI, PowerQuery, PowerPoint, VBA, Access, Project.
+- **Hard Skills**: Excel, Python, SQL, PowerBI, PowerQuery, PowerPoint, VBA, Access, Project
 - **Soft Skills**: Analytical Skills, Effective Communication, Problem-Solving, Teamwork, Detail-Oriented, Self-Taught, Proactive, Adaptability
 
 ## 🌱 Currently learning
