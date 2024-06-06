@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I´m Joaquin👋🏻👨🏻‍💻
+I am an Industrial Engineer who decided to venture into the IT world as a data analyst and is training to become a data scientist.
+I have always been passionate about technology, and this is why I chose this path for my professional career.
+My goal is to enter the data job market with my combination of hard skills as a data analyst and soft skills as an engineer.
 
-<!--
-**joaquinrojash/joaquinrojash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 Skills
+- **Hard Skills**: Excel, Python, SQL, PowerBI, PowerQuery, PowerPoint, VBA, Access, Project.
+- **Soft Skills**: Analytical Skills, Effective Communication, Problem-Solving, Teamwork, Detail-Oriented, Self-Taught, Proactive, Adaptability
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently learning
+I am constantly learning to develop myself not only professionally but, more importantly, as a person.
+- **Data Analyst**: improving my portfolio to develop and demonstrate my skills.
+- **Data Scientist**: acquiring the technical knowledge of the job to perform with expertise.
+- **Lenguajes**:  🇪🇸 Spanish: Native proficiency
+                  🏴󠁧󠁢󠁥󠁮󠁧󠁿 English: Full professional proficiency
+                  🇩🇪 German: Elementary proficiency (just started learning it)
+  
+## 📫 Let´s contact!
+- [LinkedIn](https://www.linkedin.com/in/joaquinrojash/)
+- [Email](mailto:joaquinrojash@hotmail.com)
