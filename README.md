@@ -9,8 +9,10 @@ My goal is to enter the data job market with my combination of hard skills as a 
 
 ## 🌱 Currently learning
 I am constantly learning to develop myself not only professionally but, more importantly, as a person.
-- **Data Analyst**: improving my portfolio to develop and demonstrate my skills.
+- **Data Engineering**: strongest learning path right now and improving my portfolio.
 - **Data Scientist**: acquiring the technical knowledge of the job to perform with expertise.
+- **Data Analyst**: improving my portfolio to develop and demonstrate my skills.
+  
 - **Lenguajes**:
     - Spanish: Native proficiency
     - English: Full professional proficiency
